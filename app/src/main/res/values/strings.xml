@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_enter_data">EnterData</string>
+    <string name="title_activity_enter_extras">EnterExtras</string>
+    <string name="title_activity_edit">EditActivity</string>
+    <string name="search_hint">Введите запрос</string>
+    <string name="title_activity_for_search">ForSearch</string>
+</resources>
